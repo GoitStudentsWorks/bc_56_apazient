@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bc_56_apazient/static/css/main.60718b33.css",
-    "main.js": "/bc_56_apazient/static/js/main.f0aab5f9.js",
+    "main.js": "/bc_56_apazient/static/js/main.316fef82.js",
     "static/media/RegDollarsRight.png": "/bc_56_apazient/static/media/RegDollarsRight.4bf12f73e8dcae887449.png",
     "static/media/RegDollarsLeft.png": "/bc_56_apazient/static/media/RegDollarsLeft.cbe0397bda1dc67c6857.png",
     "static/media/Circe-Bold.woff2": "/bc_56_apazient/static/media/Circe-Bold.50a8ea43c4436dea4daa.woff2",
@@ -18,10 +18,10 @@
     "static/media/Poppins-Bold.woff2": "/bc_56_apazient/static/media/Poppins-Bold.02d30d49f061087e6275.woff2",
     "index.html": "/bc_56_apazient/index.html",
     "main.60718b33.css.map": "/bc_56_apazient/static/css/main.60718b33.css.map",
-    "main.f0aab5f9.js.map": "/bc_56_apazient/static/js/main.f0aab5f9.js.map"
+    "main.316fef82.js.map": "/bc_56_apazient/static/js/main.316fef82.js.map"
   },
   "entrypoints": [
     "static/css/main.60718b33.css",
-    "static/js/main.f0aab5f9.js"
+    "static/js/main.316fef82.js"
   ]
 }
